@@ -1,0 +1,29 @@
+/* 
+ * Default All Site Search form styles.
+ */
+
+form.all-site-search-form {
+	background: #eee;
+	border: 1px solid #ccc;
+	float: left;
+	padding: 12px;
+	padding: 12px 12px 0 12px;
+	width: auto;
+}
+
+form.all-site-search-form select {
+	display: block;
+	margin-bottom: 15px;
+}
+
+form.all-site-search-form input {
+	margin-bottom: 12px;
+}
+
+form.all-site-search-form input.all-site-search-button {
+
+}
+
+.clear {
+	clear: both;
+}

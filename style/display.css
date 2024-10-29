@@ -1,0 +1,197 @@
+/* 
+ * Default All Site Search form styles.
+ */
+
+/* General styles for various sections */
+P     { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; color: #000000 }
+td    { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; color: #000000 }
+table { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; color: #000000 }
+
+
+/*  Links  */
+a:hover { color: blue; } 
+
+
+/*
+Styles for the result sections
+==============================
+*/
+
+/*  Horizontal line  */
+.hr_style {
+	color: #111111;
+	background-color: #333333;
+	height: 1px; 
+	border: 0;
+}
+
+/*  The line "Number of results" */
+.noofres { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; color: #000000 }
+
+
+/* Pages (text search) results
+*/
+/* Background color */
+.pages_bgcolor { background-color: #FFFFFF }
+/* Section name */
+.pages_name { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; font-style: normal; font-weight: bold; color: #000000 }
+
+/* File extension */
+.pages_extension { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; color: #000000 }
+/* The linktext, i.e. anchor text for page or object */
+.pages_linktext { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; font-weight: bold; color: #0000ff }
+/* The page excerpt text */
+.pages_excerpt { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; color: #000; }
+/* Size of page or document */
+.pages_size { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* Language and Date for Page, Document or Object */
+.pages_langdate { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* Cachec and RTB links for Page, Document or Object */
+.pages_cr { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* The URL in clear text for the Page or Document */
+.pages_url { font-family: Georgia, 'Bitstream Charter', serif; font-size: 12px; font-style: normal; color: #489774 }
+
+
+
+/* Email results
+*/
+/* Background color */
+.emails_bgcolor { background-color: #FFFFFF }
+/* Section name */
+.emails_name { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; font-style: normal; font-weight: bold; color: #000000 }
+
+/* File extension */
+.emails_extension { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; color: #000000 }
+/* The linktext, i.e. anchor text for page or object */
+.emails_linktext { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; font-weight: bold; color: #0000ff }
+/* The page excerpt text */
+.emails_excerpt { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; color: #000; }
+/* Size of page or document */
+.emails_size { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* Language and Date for Page, Document or Object */
+.emails_langdate { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* Cachec and RTB links for Page, Document or Object */
+.emails_cr { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* The URL in clear text for the Page or Document */
+.emails_url { font-family: Georgia, 'Bitstream Charter', serif; font-size: 12px; font-style: normal; color: #489774 }
+
+
+
+/* Image results
+*/
+/* Background color */
+.images_bgcolor { background-color: #FFFFFF }
+/* Section name */
+.images_name { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; font-style: normal; font-weight: bold; color: #000000 }
+
+/* File extension */
+.images_extension { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; color: #000000 }
+/* The linktext, i.e. anchor text for page or object */
+.images_linktext { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; font-weight: bold; color: #0000ff }
+/* The page excerpt text */
+.images_excerpt { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; color: #000; }
+/* Size of page or document */
+.images_size { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* Language and Date for Page, Document or Object */
+.images_langdate { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* Cachec and RTB links for Page, Document or Object */
+.images_cr { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* The URL in clear text for the Page or Document */
+.images_url { font-family: Georgia, 'Bitstream Charter', serif; font-size: 12px; font-style: normal; color: #489774 }
+
+
+
+/* Sound results
+*/
+/* Background color */
+.sounds_bgcolor { background-color: #FFFFFF }
+/* Section name */
+.sounds_name { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; font-style: normal; font-weight: bold; color: #000000 }
+
+/* File extension */
+.sounds_extension { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; color: #000000 }
+/* The linktext, i.e. anchor text for page or object */
+.sounds_linktext { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; font-weight: bold; color: #0000ff }
+/* The page excerpt text */
+.sounds_excerpt { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; color: #000; }
+/* Size of page or document */
+.sounds_size { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* Language and Date for Page, Document or Object */
+.sounds_langdate { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* Cachec and RTB links for Page, Document or Object */
+.sounds_cr { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* The URL in clear text for the Page or Document */
+.sounds_url { font-family: Georgia, 'Bitstream Charter', serif; font-size: 12px; font-style: normal; color: #489774 }
+
+
+
+/* Video results
+*/
+/* Background color */
+.videos_bgcolor { background-color: #FFFFFF }
+/* Section name */
+.videos_name { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; font-style: normal; font-weight: bold; color: #000000 }
+
+/* File extension */
+.videos_extension { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; color: #000000 }
+/* The linktext, i.e. anchor text for page or object */
+.videos_linktext { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; font-weight: bold; color: #0000ff }
+/* The page excerpt text */
+.videos_excerpt { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; color: #000; }
+/* Size of page or document */
+.videos_size { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* Language and Date for Page, Document or Object */
+.videos_langdate { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* Cachec and RTB links for Page, Document or Object */
+.videos_cr { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* The URL in clear text for the Page or Document */
+.videos_url { font-family: Georgia, 'Bitstream Charter', serif; font-size: 12px; font-style: normal; color: #489774 }
+
+
+
+/* Software results
+*/
+/* Background color */
+.softw_bgcolor { background-color: #FFFFFF }
+/* Section name */
+.softw_name { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; font-style: normal; font-weight: bold; color: #000000 }
+
+/* File extension */
+.softw_extension { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; color: #000000 }
+/* The linktext, i.e. anchor text for page or object */
+.softw_linktext { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; font-weight: bold; color: #0000ff }
+/* The page excerpt text */
+.softw_excerpt { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; color: #000; }
+/* Size of page or document */
+.softw_size { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* Language and Date for Page, Document or Object */
+.softw_langdate { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* Cachec and RTB links for Page, Document or Object */
+.softw_cr { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* The URL in clear text for the Page or Document */
+.softw_url { font-family: Georgia, 'Bitstream Charter', serif; font-size: 12px; font-style: normal; color: #489774 }
+
+
+
+/* Compressed files results
+*/
+/* Background color */
+.compr_bgcolor { background-color: #FFFFFF }
+/* Section name */
+.compr_name { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; font-style: normal; font-weight: bold; color: #000000 }
+
+/* File extension */
+.compr_extension { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; color: #000000 }
+/* The linktext, i.e. anchor text for page or object */
+.compr_linktext { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; font-weight: bold; color: #0000ff }
+/* The page excerpt text */
+.compr_excerpt { font-family: Georgia, 'Bitstream Charter', serif; font-size: 16px; line-height: 24px; font-style: normal; color: #000; }
+/* Size of page or document */
+.compr_size { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* Language and Date for Page, Document or Object */
+.compr_langdate { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* Cachec and RTB links for Page, Document or Object */
+.compr_cr { font-family: Georgia, 'Bitstream Charter', serif; font-size: 14px; font-style: normal; color: #000000 }
+/* The URL in clear text for the Page or Document */
+.compr_url { font-family: Georgia, 'Bitstream Charter', serif; font-size: 12px; font-style: normal; color: #489774 }
+
